@@ -1,0 +1,52 @@
+{
+  "asset": {
+    "version": "1.0"
+  },
+  "geometricError": 100,
+  "root": {
+    "transform": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "boundingVolume": {
+      "sphere": [
+        1054.7612846155,
+        350.0,
+        100.0,
+        800.0
+      ]
+    },
+    "geometricError": 100,
+    "refine": "ADD",
+    "children": [
+      {
+        "boundingVolume": {
+          "sphere": [
+            1054.7612846155,
+            230.59685384609998,
+            140.32466913745,
+            196.3190512815337
+          ]
+        },
+        "geometricError": 64,
+        "content": {
+          "uri": "tile_19_25_CESIUM/tileset.json"
+        }
+      }
+    ]
+  }
+}

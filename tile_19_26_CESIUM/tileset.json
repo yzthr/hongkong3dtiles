@@ -1,0 +1,22 @@
+{
+    "asset": {
+        "version": "0.0"
+    },
+    "geometricError": 64.0,
+    "root": {
+
+        "boundingVolume": {
+            "sphere": [
+                1054.76128462,
+                480.59685384600007,
+                82.9711667122,
+                191.9471065748277
+            ]
+        },
+        "refine": "replace",
+        "geometricError": 32.0,
+        "content": {
+            "url": "./Data/tile_0_0_0_tex.json"
+        }
+    }
+}
